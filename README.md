@@ -31,6 +31,8 @@ so we can choose to use the Sentinel connections as needed by the environment.
 A developer may use a standalone Redis server in their local environment, while
 production environments operate a Redis Sentinel set of servers.
 
+This repo is a re-published version of devnicolas1/laravel-redis-sentinel-drivers:^2.8
+The devnicolas1/laravel-redis-sentinel-drivers repo is port [`monospice/laravel-redis-sentinel-drivers`](https://github.com/monospice/laravel-redis-sentinel-drivers). We no longer can find the devnicolas1 version. Please try testing out [`Namoshek/laravel-redis-sentinel-drivers`](https://github.com/Namoshek/laravel-redis-sentinel), which appears to be a new alternative.
 
 Contents
 --------
